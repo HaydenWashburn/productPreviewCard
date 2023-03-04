@@ -16,8 +16,10 @@ div {
 }
 
 #product {
-    width:250px;
+    width:265px;
     height: 450px;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
 }
 
 body{
@@ -43,11 +45,6 @@ p{
 #oldPrice{
   color:black;
   font-size:15px;
-
-}
-
-.grow{
-  flex-grow: 1;
 }
 
 button{
