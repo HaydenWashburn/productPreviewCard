@@ -20,12 +20,12 @@ div {
 
 #product {
   width: 100%;
-    border-top-left-radius: 8px;
-    border-bottom-left-radius: 8px;
+  border-top-left-radius: 8px;
+  border-bottom-left-radius: 8px;
 }
 
 body{
-    background-color:black;
+    background-color:hsl(30, 38%, 92%);
     min-height:100vh;
     display:flex;
     justify-content: center;
