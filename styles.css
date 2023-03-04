@@ -1,0 +1,36 @@
+.grid-container {
+  display: grid;
+  justify-content: space-between;
+  grid-template-columns: auto auto auto auto;
+  background-color: white;
+  width: 600px;
+  height: 375px;
+  margin: auto;
+  border-radius: 15px;
+}
+
+div {
+  text-align: left;
+  width: 250px;
+  height: 297px;
+}
+
+#product {
+    width:250px;
+    height:375px;
+  border-radius:15px;
+  object-fit: contain;
+}
+
+body{
+    background-color:hsl(30, 38%, 92%);
+    padding:150px;
+}
+
+h1{
+    font-family: 'Fraunces', serif;
+}
+
+p{
+    font-family: 'Montserrat', sans-serif; ;
+}
